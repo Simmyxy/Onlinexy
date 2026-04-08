@@ -5,13 +5,13 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {simmyxy.aternos.me
     "ip": "simmyxy.aternos.me:47237",
     "port": 47237,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
-  "position": {
+  "position": {0, 100, 0
     "enabled": true,
     "x": 0,
     "y": 100,
